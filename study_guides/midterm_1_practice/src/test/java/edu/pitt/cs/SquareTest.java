@@ -1,6 +1,9 @@
 package edu.pitt.cs;
 
 import static org.junit.Assert.*;
+import static org.mockito.Mockito.mock;
+import static org.mockito.Mockito.verify;
+
 import org.mockito.*;
 
 import org.junit.Test;
@@ -19,8 +22,12 @@ public class SquareTest {
 	 */
 	@Test
 	public void testSetSquaredIntegration() {
-		// TODO: Fill in!
-		fail();
+		Square square = new Square(); 
+		Number number = new Number(); 
+
+		square.setSquared(number, 3); 
+
+		assertEquals(9, number.getVal()); 
 	}
 
 	/**
@@ -35,7 +42,11 @@ public class SquareTest {
 	 */
 	@Test
 	public void testSetSquaredUnit() {
-		// TODO: Fill in!
-		fail();
+		Square square = new Square();
+		Number mockNumber = mock(Number.class); 
+
+		square.setSquared(mockNumber, 3); 
+
+		verify(mockNumber).setVal(9); 
 	}
 }

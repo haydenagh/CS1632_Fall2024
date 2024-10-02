@@ -12,12 +12,12 @@ public class ValueTest {
 	public void setUp() {
 		value = new Value();
 	}
-	
+
 	@Test
 	public void testIncValNone() {
 		assertEquals(0, value.getVal());
 	}
-	
+
 	@Test
 	public void testIncValOnce() {
 		value.incVal();
@@ -28,6 +28,6 @@ public class ValueTest {
 	public void testIncValTwice() {
 		value.incVal();
 		value.incVal();
-		assertEquals(3, value.getVal());
+		assertEquals(2, value.getVal());
 	}
 }
