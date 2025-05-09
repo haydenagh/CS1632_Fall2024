@@ -121,39 +121,40 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 ## WEEK 10 (Week of 28 OCT)
 
 * Class 1
-  * Lecture: Static Analysis Part 2
+  * In-class exercise: [Exercise 5 Part 1: Linters and Bug Finders](exercises/5)
   * Assignments due before class
     * Listen to Static Analysis Part 1 Lecture
 
 * Class 2
-  * In-class exercise: [Exercise 5: Static Analysis](exercises/5)
-  * Assignment releases
-    * [Deliverable 5](deliverables/5)
+  * Lecture: Software QA and Nondeterminism (cont'd), Static Analysis Part 2
 
 ## WEEK 11 (Week of 4 NOV)
 
 * Class 1
-  * Lecture: Static Analysis Part 3, Smoke and Exploratory Testing (READING: AFIST, Chapters 10-11)
+  * In-class exercise: [Exercise 5 Part 2: Model Checking](exercises/5)
   * Assignments due before class
     * Deliverable 4
+  * Assignment releases
+    * [Deliverable 5](deliverables/5)
 
 * Class 2
-  * In-class exercise: [Supplementary Exercise 4: CI Pipelines](exercises/Supplement4)
+  * Lecture: Static Analysis Part 3, Smoke and Exploratory Testing (READING: AFIST, Chapters 10-11)
 
 ## WEEK 12 (Week of 11 NOV)
 
 * Class 1
-  * In-class exercise: [Supplementary Exercise 4: Dockers](exercises/Supplement4)
+  * In-class exercise: [Supplementary Exercise 4 Part 1: CI Pipelines](exercises/Supplement4)
 
 * Class 2
-  * Lecture: Pairwise and Combinatorial Testing (READING: AFIST, Chapter 17)
+  * In-class exercise: [Supplementary Exercise 4 Part 2: Dockers](exercises/Supplement4)
 
 ## WEEK 13 (Week of 18 NOV)
 
 * Class 1
-  * Lecture: Security Testing (READING: AFIST, Chapter 20)
+  * Lecture: Pairwise and Combinatorial Testing (READING: AFIST, Chapter 17)
 
 * Class 2
+  * Lecture: Security Testing (READING: AFIST, Chapter 20)
   * Lecture: Midterm 2 Q&A based on the [study guide](study_guides/midterm_2_study_guide.md)
 
 ## WEEK 14 (Week of 25 NOV)
@@ -164,7 +165,21 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 15 (Week of 2 DEC)
 
-* Guest Lecturers from Industry (TBA)
+* December 2, 9:30 AM: BNY Mellon lecture (Online over Zoom)
+  * Speaker: Vittal Kommireddy, Director Of Quality Engineering Practice [LinkedIn](https://www.linkedin.com/in/vittal-kommireddy-a1857621/)
+  * Speaker: Prajitha Nair, Automation Architect - Quality Engineering
+
+* December 2, 3:00 PM: CGI lecture (In-Person at IS 305)
+  * Speaker: Laks Ranganathan, CGI Partner | Director - Consulting Services [LinkedIn](https://www.linkedin.com/in/lakshmi-narasimhan-yeri-ranganathan-4b7b874b/)
+  * Speaker: Sharath Chandran, Director, Consulting Expert [LinkedIn](https://www.linkedin.com/in/sharath-chandran-6a9b7110/)
+  * Speaker: Satish Dupati, Senior Consultant [LinkedIn](https://www.linkedin.com/in/satishdupati/)
+
+* December 4, 9:30 AM: Wolfe lecture (In-Person at IS 405)
+  * Speaker: Glenn Morten, Chief Technology Officer [LinkedIn](https://www.linkedin.com/in/startuptech/)
+  * Speaker: Josh Hanrahan, Senior Director of Software Quality Assurance [LinkedIn](https://www.linkedin.com/in/joshhanrahan/)
+
+* December 4, 3:00 PM: NetApp lecture (In-Person at IS 305)
+  * Speaker: Twesha Mitra, Software Engineer, [LinkedIn](https://www.linkedin.com/in/tweshamitra/)
 
 ## WEEK 16 (Week of 9 DEC)
 
@@ -179,4 +194,4 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 2: NO CLASS (No final exam)
 
-* Deliverable 5 due Friday 11:59 PM
+* Deliverable 5 due Friday (12/13) 11:59 PM
